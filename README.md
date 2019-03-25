@@ -1,4 +1,4 @@
-# speed_sushida
+# auto_sushida
 
 Sushida is known as one of the most famous typing softwares for Japanese. Here, I make a automatically typewriter for this game.
 
